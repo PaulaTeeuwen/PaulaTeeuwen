@@ -4,4 +4,3 @@
 - 📫 How to reach me: pcpt3@cam.ac.uk
 
 [![Paula's GitHub stats](https://github-readme-stats.vercel.app/api?username=PaulaTeeuwen)](https://github.com/anuraghazra/github-readme-stats)
-https://github-readme-stats.vercel.app/api/top-langs/?username=PaulaTeeuwen
